@@ -1,0 +1,6 @@
+.venv/
+models/
+fonts/
+__pycache__/
+proyecto*/
+*.mp4
